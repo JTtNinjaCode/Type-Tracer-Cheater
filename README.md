@@ -1,4 +1,4 @@
-# Type-Tracer-Cheater
+# TypeTracer Cheater
 This program is designed to cheat on TypeRacer by using right-click to capture image, OCR for text recognition, and outputting it.
 
 TypeRacer:https://play.typeracer.com/
