@@ -3,6 +3,8 @@ This program is designed to cheat on TypeRacer by using right-click to capture i
 
 TypeRacer:https://play.typeracer.com/
 
+![type_tracer_cheater](https://github.com/JTtNinjaCode/Type-Tracer-Cheater/assets/50322815/1786d71a-149c-465b-9610-8374ade10bd0)
+
 ### Dependencies
 This program depends on pynput, pyautogui, pytesseract, keyboard.
 ```console
